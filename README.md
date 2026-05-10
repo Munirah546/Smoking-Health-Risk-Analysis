@@ -1,0 +1,1 @@
+Smoking Health Risk Analysis designed to explore smoking patterns, assess health risks, and evaluate the impact of smoking on different population. The goal is to support data-driven public health decisions and awareness.
